@@ -52,10 +52,3 @@ https://www.visualstudio.com/vs/
 3. From within the "Solution Explorer", right click the BlockChain.Console project and select the "Set As Startup Project" option.
 
 4. Click the "Start" button, or hit F5 to run. The program executes in a console window, and is controlled via HTTP with the same commands as the Python version.
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-"# Bockchain-Master" 
